@@ -5,10 +5,10 @@
 }
 
 :root {
-    --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro: #FFF2AF;
-    --roxo-claro: #B2A5FF;
+    --preto: #b1694c;
+    --marinho: #b65800;
+    --amarelo-claro: #000000;
+    --roxo-claro: rgb(255, 94, 0);
     --verde: #99BC85;
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
